@@ -17,7 +17,7 @@ require (
 	golang.org/x/crypto v0.15.0
 	google.golang.org/genproto v0.0.0-20230822172742-b8732ec3820d // indirect
 	google.golang.org/grpc v1.59.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 
 	// kubernetes deps
 	k8s.io/api v0.25.12
